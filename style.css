@@ -1,0 +1,14 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+	color: #fff;
+}
+.header{
+	background: url(../img/polygons.png) 0 0/cover no-repeat;
+	padding: 200px 50px;
+	text-align: center; 
+	position: relative;
+}
